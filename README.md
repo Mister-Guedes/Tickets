@@ -26,7 +26,7 @@ O objetivo é criar um aplicativo móvel, sem necessidade de integração com ba
 - **Editor de Código** (recomendado: Visual Studio Code)
 - **Git** (para controle de versão)
 
-### Como Rodar
+### Como Rodar a aplicação
 
 ```bash
 # Clone o repositório
